@@ -1,3 +1,4 @@
+#code may change according to your username
 import os.path
 
 save_path = 'C:/Users/username/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup'
